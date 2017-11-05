@@ -11,7 +11,7 @@ import com.jsf.crud.db.operation.DatabaseOperation;
 @ManagedBean
 @RequestScoped
 public class StudentBean {
-
+ 
 	private int id;
 	private String name;
 	private String email;
